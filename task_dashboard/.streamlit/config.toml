@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#6B7280"         # warna utama (ganti merah jadi abu-abu)
+backgroundColor = "#FFFFFF"      # warna latar
+secondaryBackgroundColor = "#F3F4F6"
+textColor = "#111827"
+font = "sans serif"
